@@ -1,1 +1,5 @@
 *.jpeg
+#include the w.jpeg#
+!include the w.jpeg
+!w.jpeg
+
